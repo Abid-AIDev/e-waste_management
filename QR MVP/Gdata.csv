@@ -1,0 +1,9 @@
+﻿waste_type,source_location,generated_date,weight_kg,recyclable,disposal_method,cost_per_kg,disposal_status
+Plastic Bottles,Office,2/19/25,10,TRUE,Recycling,2,Pending
+Food Waste,Cafeteria,2/19/25,18.4,FALSE,Composting,1.5,Disposed
+Cardboard Boxes,Storage Room,2/19/25,7.8,TRUE,Recycling,1,Disposed
+Glass Waste,Kitchen,2/19/25,4.2,TRUE,Recycling,3.5,Pending
+Metal Scraps,Maintenance,2/19/25,6.7,TRUE,Recycling,4,Disposed
+laptop,it,22/2/25,20,true,recycable,20,20
+monitor,12,12,12,12,12,12,12
+workstatiion,12,12,12,12,12,12,12
