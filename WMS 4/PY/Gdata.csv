@@ -1,0 +1,6 @@
+﻿waste_type,source_location,generated_date,weight_kg,recyclable,disposal_method,cost_per_kg,disposal_status,predicted_waste_next_day
+Plastic Bottles,Office,2/19/25,10,TRUE,Recycling,2,Pending,9.8
+Food Waste,Cafeteria,2/19/25,18.4,FALSE,Composting,1.5,Disposed,17.9
+Cardboard Boxes,Storage Room,2/19/25,7.8,TRUE,Recycling,1,Disposed,7.5
+Glass Waste,Kitchen,2/19/25,4.2,TRUE,Recycling,3.5,Pending,4.1
+Metal Scraps,Maintenance,2/19/25,6.7,TRUE,Recycling,4,Disposed,6.5

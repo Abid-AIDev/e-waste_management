@@ -1,0 +1,6 @@
+﻿waste_type,department,generated_date,weight_kg,hazardous,disposal_method,storage_duration_days,cost_per_kg,disposal_status,predicted_waste_next_day
+Medical Sharps,Surgery,2/19/25,12.5,TRUE,Incineration,3,15.5,Disposed,13
+Expired Drugs,Pharmacy,2/19/25,5.2,TRUE,Chemical Treatment,7,20,Pending,5.5
+Used Bandages,Emergency,2/19/25,8,TRUE,Incineration,5,10,Disposed,8.3
+Food Waste,Cafeteria,2/19/25,15.3,FALSE,Composting,2,5,Disposed,14.8
+Electronic Waste,Radiology,2/19/25,3.5,TRUE,Recycling,14,25,Pending,3.6
